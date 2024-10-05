@@ -9,7 +9,7 @@
   - [SOC Lab](https://github.com/sravurimain/SOC-Lab)
   - [Vulerability Scan Report with Nessus](https://github.com/sravurimain/Vulnerability-Scan-Report-with-Nessus)
   - [Password Strength Checker](https://github.com/LABURL)
-  - [Keylogger Software](https://github.com/LABURL)
+  - [Keylogger Software](https://github.com/sravurimain/Keylogger-Software)
   - [Network Enumeration with nmap](https://github.com/sravurimain/network-enumeration-with-nmap)
 
 
