@@ -10,7 +10,7 @@
   - [Vulerability Scan Report with Nessus](https://github.com/LABURL)
   - [Password Strength Checker](https://github.com/LABURL)
   - [Keylogger Software](https://github.com/LABURL)
-  - [Network Enumeration with nmap](https://github.com/LABURL)
+  - [Network Enumeration with nmap](https://github.com/sravurimain/network-enumeration-with-nmap)
 
 
 <h2>📝 Certifications</h2>
