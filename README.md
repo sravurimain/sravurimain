@@ -7,7 +7,7 @@
   - [Tic Tac Toe in Java](https://github.com/sravurimain/Tic-Tac-Toe)
 - <b>Cybersecurity</b>
   - [SOC Lab](https://github.com/sravurimain/SOC-Lab)
-  - [Vulerability Scan Report with Nessus](https://github.com/LABURL)
+  - [Vulerability Scan Report with Nessus](https://github.com/sravurimain/Vulnerability-Scan-Report-with-Nessus)
   - [Password Strength Checker](https://github.com/LABURL)
   - [Keylogger Software](https://github.com/LABURL)
   - [Network Enumeration with nmap](https://github.com/sravurimain/network-enumeration-with-nmap)
