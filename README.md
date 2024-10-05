@@ -6,7 +6,7 @@
   - [Calculator in Python](https://github.com/sravurimain/Calculator.Py)
   - [Tic Tac Toe in Java](https://github.com/sravurimain/Tic-Tac-Toe)
 - <b>Cybersecurity</b>
-  - [SOC Lab](https://github.com/LABURL)
+  - [SOC Lab](https://github.com/sravurimain/SOC-Lab)
   - [Vulerability Scan Report with Burp](https://github.com/LABURL)
   - [Password Strength Checker](https://github.com/LABURL)
   - [Keylogger Software](https://github.com/LABURL)
