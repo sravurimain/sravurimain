@@ -11,6 +11,8 @@
   - [Password Strength Checker](https://github.com/sravurimain/Password-Strength-Checker)
   - [Keylogger Software](https://github.com/sravurimain/Keylogger-Software)
   - [Network Enumeration with nmap](https://github.com/sravurimain/network-enumeration-with-nmap)
+  - [Security Audit Exp](https://github.com/sravurimain/securityaudit/tree/main)
+
 
 
 <h2>📝 Certifications</h2>
