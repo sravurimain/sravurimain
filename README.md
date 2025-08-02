@@ -1,4 +1,4 @@
-<h1># 👋 Hi, I’m Saiaashish Ravuri
+# 👋 Hi, I’m Saiaashish Ravuri
 
 Aspiring IT Support & Cybersecurity Analyst with hands-on experience in system troubleshooting, network security, and helpdesk operations. I'm pursuing a B.S. in Computer Science with a focus on Cybersecurity and currently hold certifications including CompTIA A+, Security+, and Google Cybersecurity.
 
