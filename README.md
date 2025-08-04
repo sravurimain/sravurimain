@@ -18,7 +18,8 @@ Aspiring IT Support & Cybersecurity Analyst with hands-on experience in system t
   - [Password Strength Checker](https://github.com/sravurimain/Password-Strength-Checker)  
   - [Keylogger Software](https://github.com/sravurimain/Keylogger-Software)  
   - [Network Enumeration with Nmap](https://github.com/sravurimain/network-enumeration-with-nmap)  
-  - [Security Audit Exp](https://github.com/sravurimain/securityaudit/tree/main)  
+  - [Security Audit Exp](https://github.com/sravurimain/securityaudit/tree/main)
+  - [IT Asset Management](https://github.com/sravurimain/IT-Asset-Management/tree/main) 
 
 ---
 
